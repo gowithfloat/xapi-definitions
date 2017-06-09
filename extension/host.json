@@ -1,0 +1,8 @@
+{
+  "name": {
+    "en-US": "Activity Host"
+  },
+  "description": {
+    "en-US": "An activity extension which allows the host of an activity to store information about itself. This allows other systems to know who is responsible for maintaining an activity. The value of the extension should be a JSON-encoded object containing a `homePage` for the host and a host-specific `id` for the activity."
+  }
+}
