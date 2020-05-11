@@ -1,8 +1,0 @@
-{
-  "name": {
-    "en-US": "Worsen"
-  },
-  "description": {
-    "en-US": "Indicates that the actor has worsened a score. For instance, after retaking an assessment the learner's score decreases, the user has worsened."
-  }
-}
