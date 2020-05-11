@@ -1,0 +1,8 @@
+{
+  "name": {
+    "en-US": "Improved"
+  },
+  "description": {
+    "en-US": "Indicates that the actor has improved a score. For instance, after retaking an assessment the learner's score increases, the user's score has improved."
+  }
+}
