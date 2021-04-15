@@ -1,0 +1,8 @@
+{
+  "name": {
+    "en-US": "Reset"
+  },
+  "description": {
+    "en-US": "Indicates that the actor has reset options for a given object. For instance, an actor filling a form may want to reset all of their responses."
+  }
+}
