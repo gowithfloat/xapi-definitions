@@ -1,0 +1,8 @@
+{
+  "name": {
+    "en-US": "Form ID"
+  },
+  "description": {
+    "en-US": "A result extension; represents an internal ID of the form associated with this statement."
+  }
+}

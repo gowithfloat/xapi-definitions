@@ -1,0 +1,8 @@
+{
+  "name": {
+    "en-US": "Recommendation"
+  },
+  "description": {
+    "en-US": "Represents a recommendation to view or complete another activity. `moreInfo` should contain an IRL to launch the recommended activity. For personalized recommendations, the activity description can contain a reason for the recommendation and the result score the relevance of the recommendation. The parent context activity may reflect the activty that was recommended."
+  }
+}
