@@ -1,0 +1,8 @@
+{
+  "name": {
+    "en-US": "User groups"
+  },
+  "description": {
+    "en-US": "A context extension containing a JSON array of user groups related to this statement (i.e. user groups the actor belongs to). Each group definition must contain an ID (as an IRI) and optionally, a name (language map). Example: [{\"id\": \"http://example.com/group/123\", \"name\": {\"en-US\": \"Group Name\"}}]"
+  }
+}
