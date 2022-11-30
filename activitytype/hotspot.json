@@ -1,0 +1,8 @@
+{
+  "name": {
+    "en-US": "Hotspot"
+  },
+  "description": {
+    "en-US": "An area within a resource (typically an image or video) of special interest. The parent context activity should represent the resource where the hotspot is located."
+  }
+}
