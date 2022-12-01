@@ -1,2 +1,2 @@
 site: https://xapi.gowithfloat.net
-permalink: /:path
+permalink: /:path/:basename
